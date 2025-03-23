@@ -12,9 +12,16 @@ num2 = float(input("Digite o primeiro número: "))
 
 # Agora, vamos realizar a operação entre os números
 
-resultado = num1 + num2
+soma = num1 + num2
+subtracao = num1 - num2
+multiplicacao = num1 * num2
+divisao = num1 / num2
+potencia = num1 ** num2
 
-# Por fim, vamos exibir o resultado da operação
-
-print("O resultado da operação é: ", resultado)
-
+# Por fim, vamos exibir os resultados das operações
+print("Resultados das operações:")
+print(f"Soma: {num1} + {num2} = {soma}")
+print(f"Subtração: {num1} - {num2} = {subtracao}")
+print(f"Multiplicação: {num1} * {num2} = {multiplicacao}")
+print(f"Divisão: {num1} / {num2} = {divisao}")
+print(f"Potência: {num1} ** {num2} = {potencia}")

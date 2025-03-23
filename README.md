@@ -2,17 +2,13 @@
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 
-### Atenção ⚠️ 
-
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
-
 ## 1 - Concatenando Dados 🐾
 
 Descrição:
-Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
 
-O que aprenderemos?
+Desafio 1: Receber dois dados diferentes do usuário e concatena-los em uma única string?! 
+
+O que aprendi?
 
 * Manipulação de Strings (string)
 * Concatenação
@@ -24,9 +20,10 @@ O que aprenderemos?
 ## 2 - Repetindo Textos ✏️
 
 Descrição:
-Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
 
-O que aprenderemos?
+Desafio 2: Solicitar uma string e um número inteiro como entrada. Depois retornar a string repetida, o número de vezes informado. 
+
+O que aprendi?
 
 * Manipulação de Strings (string)
 * Números Inteiros (int)
@@ -39,9 +36,10 @@ O que aprenderemos?
 ## 3 - Operações Matemáticas Simples 📐
 
 Descrição:
-Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 
-O que aprenderemos?
+Desafio 3: Solicitar como entrada dois números e depois realizar uma operação simples entre eles.
+
+O que aprendi?
 
 * Operações Matemáticas Básicas
 * Entrada de dados
