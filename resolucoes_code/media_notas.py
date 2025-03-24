@@ -4,9 +4,9 @@
 
 # Primeiro, vamos receber as notas do usuário
 
-nota1 = float(input("Digite a primeira nota, um valor de 0 a 10: "))
-nota2 = float(input("Digite a segunda nota, um valor de 0 a 10: "))
-nota3 = float(input("Digite a terceira nota, um valor de 0 a 10: "))
+nota1 = float(input("Digite a primeira nota, um valor de 0 a 10. Obs: Use o '.' como separador decimal: "))
+nota2 = float(input("Digite a segunda nota, um valor de 0 a 10. Obs: Use o '.' como separador decimal: "))
+nota3 = float(input("Digite a terceira nota, um valor de 0 a 10. Obs: Use o '.' como separador decimal: "))
 
 # Agora, vamos calcular a média das notas
 
