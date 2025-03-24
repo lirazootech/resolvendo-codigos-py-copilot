@@ -91,3 +91,16 @@ O que aprendi:
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
+<p align="center">
+  <img src="https://github.com/lirazootech/desafio-github-markdown/blob/main/src/assets/Background_DIO.png" alt="DIO" width="400">
+</p>
+
+<p align="center">
+  Este desafio de projeto foi oferecido pela Digital Inovation One através da plataforma <a href="https://web.dio.me/home">dio.me</a> com o objetivo de aplicar os conhecimentos adquiridos durante a formação GitHub - Foundations.
+</p>
+
+
+  <p align="center">
+  Copyright © 2024. Desenvolvido com 🧡 por <a  href="https://lirazootech.vercel.app/">Thays Lira</a>.
+  </p>
